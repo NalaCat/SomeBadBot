@@ -1,0 +1,11 @@
+c:\users\nalac\source\repos\DbotCore\DbotCore\bin\Debug\netcoreapp2.0\DbotCore.deps.json
+c:\users\nalac\source\repos\DbotCore\DbotCore\bin\Debug\netcoreapp2.0\DbotCore.runtimeconfig.json
+c:\users\nalac\source\repos\DbotCore\DbotCore\bin\Debug\netcoreapp2.0\DbotCore.runtimeconfig.dev.json
+c:\users\nalac\source\repos\DbotCore\DbotCore\bin\Debug\netcoreapp2.0\DbotCore.dll
+c:\users\nalac\source\repos\DbotCore\DbotCore\obj\Debug\netcoreapp2.0\DbotCore.csprojResolveAssemblyReference.cache
+c:\users\nalac\source\repos\DbotCore\DbotCore\obj\Debug\netcoreapp2.0\DbotCore.csproj.CoreCompileInputs.cache
+c:\users\nalac\source\repos\DbotCore\DbotCore\obj\Debug\netcoreapp2.0\DbotCore.AssemblyInfoInputs.cache
+c:\users\nalac\source\repos\DbotCore\DbotCore\obj\Debug\netcoreapp2.0\DbotCore.AssemblyInfo.cs
+c:\users\nalac\source\repos\DbotCore\DbotCore\bin\Debug\netcoreapp2.0\DbotCore.pdb
+c:\users\nalac\source\repos\DbotCore\DbotCore\obj\Debug\netcoreapp2.0\DbotCore.dll
+c:\users\nalac\source\repos\DbotCore\DbotCore\obj\Debug\netcoreapp2.0\DbotCore.pdb
